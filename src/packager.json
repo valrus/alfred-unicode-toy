@@ -4,5 +4,6 @@
   "resources": [
       "icon.png",
       "filters/*"
-  ]
+  ],
+  "readme": "../README.md"
 }
