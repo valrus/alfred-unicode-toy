@@ -1,5 +1,7 @@
 {
-  "export_file": "Unicode Toy.alfredworkflow",
+  "export_files": [
+      "Unicode Toy.alfredworkflow"
+  ],
   "bundle_id": "com.valrus.unicodetoy",
   "resources": [
       "icon.png",
